@@ -1,0 +1,17 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+code/aws/.env
+*.duckdb*
+reports/.mplconfig/
+reports/pipeline.log
+
+# Large datasets stay local; recreate them with download and prepare.
+data/raw/*.csv
+data/raw/*.xlsx
+data/processed/clean_online_retail.csv
+data/processed/warehouse/
+.DS_Store
+.Rhistory

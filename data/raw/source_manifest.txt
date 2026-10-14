@@ -1,0 +1,9 @@
+Online Retail II source manifest
+Creator: Daqing Chen
+DOI: https://doi.org/10.24432/C5CG6D
+License: CC BY 4.0
+Download URL: https://archive.ics.uci.edu/static/public/502/online+retail+ii.zip
+Workbook SHA-256: bcbe73b35f5b7babf197fb0cb983a11f5d9ff929078d4aa53d171b1f2df2e980
+Year_2009-2010_online_retail_II.csv: 525,461 rows
+Year_2010-2011_online_retail_II.csv: 541,910 rows
+CSV changes: normalized headers and ISO-formatted timestamps; no rows sampled.

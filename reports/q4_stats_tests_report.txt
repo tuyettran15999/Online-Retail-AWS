@@ -1,0 +1,7 @@
+Exploratory Q4 vs non-Q4 analysis. Observed trading days only; no zero-fill.
+
+Daily observations may be autocorrelated. P-values are descriptive, not causal.
+
+net_revenue: n_q4=153, n_non_q4=451, mean_difference=18959.395485, t=11.738320, p=1.3798719e-24, df=201.616, 95% CI=[15774.600994, 22144.189976]
+
+return_rate: n_q4=153, n_non_q4=451, mean_difference=0.000465, t=0.052423, p=0.95822633, df=304.827, 95% CI=[-0.016978, 0.017907]

@@ -1,0 +1,17 @@
+metric,value
+input_rows,1067371
+new_rows,0
+raw_rows,1033036
+profiling.missing_customer,235151
+profiling.missing_date,0
+profiling.negative_quantity,22496
+profiling.negative_price,5
+checks.dim_country_orphans,0
+checks.dim_date_orphans,0
+checks.dim_product_orphans,0
+checks.dim_customer_orphans,0
+checks.invalid_staging,0
+checks.missing_fact_rows,0
+staging_rows,1031644
+fact_rows,1031644
+net_revenue,19097536.1680

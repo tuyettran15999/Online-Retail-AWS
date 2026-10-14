@@ -1,0 +1,27 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:          daily_revenue   R-squared:                       0.482
+Model:                            OLS   Adj. R-squared:                  0.480
+Method:                 Least Squares   F-statistic:                     203.6
+Date:                Wed, 14 Oct 2026   Prob (F-statistic):           3.06e-68
+Time:                        13:01:09   Log-Likelihood:                -6525.4
+No. Observations:                 604   AIC:                         1.306e+04
+Df Residuals:                     601   BIC:                         1.307e+04
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+================================================================================
+                   coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------
+const         6725.0896   1359.029      4.948      0.000    4061.442    9388.737
+is_q4         8708.9770   1451.045      6.002      0.000    5864.980    1.16e+04
+daily_orders   258.9499     18.253     14.187      0.000     223.175     294.725
+==============================================================================
+Omnibus:                      250.921   Durbin-Watson:                   1.855
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1681.192
+Skew:                           1.701   Prob(JB):                         0.00
+Kurtosis:                      10.432   Cond. No.                         287.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+HC3 robust errors; no causal interpretation or correction for temporal dependence.
