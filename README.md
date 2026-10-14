@@ -173,5 +173,4 @@ Project code is licensed under MIT; see [LICENSE](LICENSE). The UCI dataset has 
 
 - Data provider: UCI Machine Learning Repository and Daqing Chen.
 - Tools: Python, pandas, NumPy, DuckDB, openpyxl, Matplotlib, SciPy, statsmodels and JupyterLab.
-- Workflow reference: [ariah28's AWS retail pipeline](https://github.com/ariah28/End-to-End-Data-Engineering-Analytics-AWS). This project contains an original implementation; reference code is not redistributed.
-- Project organization and README style follow the local Weather project. No Weather data or analysis was copied.
+- Workflow reference: [ariah28's AWS retail pipeline](https://github.com/ariah28/End-to-End-Data-Engineering-Analytics-AWS).
